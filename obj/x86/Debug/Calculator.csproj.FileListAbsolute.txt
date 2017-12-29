@@ -1,0 +1,11 @@
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\obj\x86\Debug\Calculator.exe
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\obj\x86\Debug\Calculator.pdb
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\bin\Debug\Calculator.exe
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\bin\Debug\Calculator.pdb
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\bin\Debug\Antlr3.Runtime.dll
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\bin\Debug\NCalc.dll
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\obj\x86\Debug\Calculator.AboutBox.resources
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\obj\x86\Debug\Calculator.Main_win.resources
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\bastly\csharp\kalkulacka\Kalkulacka – Moje\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
