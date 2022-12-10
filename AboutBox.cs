@@ -20,16 +20,12 @@ namespace Calculator
             this.labelCompanyName.Text = AssemblyCompany;
             this.textBoxDescription.Text = AssemblyDescription;
 
-            textBoxDescription.AppendText("Calculator may help with conversion between number bases. The calculator allows using input of entire math formulas in decimal format. " + "\n");
-            textBoxDescription.AppendText("Input examples: 2 * (3 + 5), 2 * (2*(2*(2+1))), 10 % 3, #01/01/2001# ,\u0048\u0065\u006C\u006C\u006F " + "\n");
-
-            textBoxDescription.AppendText("\n");
-            textBoxDescription.AppendText("Donate:"+"\n");
-            textBoxDescription.AppendText("BTC:" + "\t" + "1DhjTmRsQN2fBNSBArMmuvdaWDnxLBpedu" + "\n");
-            textBoxDescription.AppendText("LTC:" + "\t" + "Li3LYheoR4hJkaQwC1FhsfeatddEucX2Mw" + "\n");
-            textBoxDescription.AppendText("ETH:" + "\t" + "0x526409f42f9eeb3326f9e396165c034d9aef6e0d" + "\n");
-            textBoxDescription.AppendText("DOGE:" + "\t" + "D9Tux2XRbkmEFTwm8fqZULZbU5mxxLsVMP" + "\n");
-            textBoxDescription.AppendText("EMC2:" + "\t" + "EXPuGrKqKs1cDFqiJhDqgwx5DDpPjbeWb9" + "\n");
+            textBoxDescription.AppendText("Calculator may help with conversion between number bases. The calculator allows using input of entire math formulas in decimal format. Input examples:" + "\r\n");
+            textBoxDescription.AppendText("2 * (3 + 5), 2 * (2*(2*(2+1)))," + "\r\n");
+            textBoxDescription.AppendText("#01/01/2001#, \\u0048 \\u0065 \\u006C \\u006C \\u006F, " + "\r\n");
+            textBoxDescription.AppendText("10 % 3, Round(0.12345,1), Pi = 3.14... " + "\r\n");
+            textBoxDescription.AppendText("Sqrt(25), Pow(2,6), M - Memory" + "\r\n");
+            textBoxDescription.AppendText("\r\n" + "\n");
 
             textBoxDescription.AppendText("Qestions ? Contact me @" + "\n");
             textBoxDescription.AppendText("https://github.com/JanSedlak66/Calculator" + "\n");
